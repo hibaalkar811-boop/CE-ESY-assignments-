@@ -14,3 +14,5 @@ This project implements a Circular Buffer in C.
 - "CE-ESY" is added
 - Data stored in buffer
 - Then read and printed
+الاسم هبه صياح القرح
+تنفيذ المخزن الدائري
